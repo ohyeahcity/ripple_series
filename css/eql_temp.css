@@ -108,7 +108,7 @@ html, body {
 		max-height:100%;
 	}
 
-	@media (max-width:768px){
+	/*@media (max-width:768px){
 		.carousel-inner {
 			min-height:440px;
 			display:block;
@@ -125,7 +125,7 @@ html, body {
 		.carousel-inner img {
 			margin-left:-50%;
 		}
-	}
+	}*/
 
 
 .carousel-control.left {
